@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/VH-DM/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VH-DM" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VH-DM&theme=transparent" />
 </a>
 <a href="https://github.com/VH-DM/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VH-DM&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VH-DM&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 ##

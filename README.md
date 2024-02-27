@@ -1,4 +1,4 @@
-# Greetings! I am Vitor.
+# Olá! Eu sou o Vitor, estudante de programação.
 
 
 <a href="https://github.com/VH-DM/github-readme-stats">

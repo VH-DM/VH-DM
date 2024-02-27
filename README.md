@@ -1,4 +1,4 @@
-### Greetings! I am Vitor.
+# Greetings! I am Vitor.
 
 
 <a href="https://github.com/VH-DM/github-readme-stats">
